@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/musk-sale/static/css/main.b100e6da.chunk.css",
+    "main.js": "/musk-sale/static/js/main.1545f0d1.chunk.js",
+    "main.js.map": "/musk-sale/static/js/main.1545f0d1.chunk.js.map",
+    "runtime-main.js": "/musk-sale/static/js/runtime-main.f6fab1cb.js",
+    "runtime-main.js.map": "/musk-sale/static/js/runtime-main.f6fab1cb.js.map",
+    "static/css/2.9ff99f11.chunk.css": "/musk-sale/static/css/2.9ff99f11.chunk.css",
+    "static/js/2.bc88ee95.chunk.js": "/musk-sale/static/js/2.bc88ee95.chunk.js",
+    "static/js/2.bc88ee95.chunk.js.map": "/musk-sale/static/js/2.bc88ee95.chunk.js.map",
+    "index.html": "/musk-sale/index.html",
+    "precache-manifest.1bee8cb82dd6b9f4522111d89832b953.js": "/musk-sale/precache-manifest.1bee8cb82dd6b9f4522111d89832b953.js",
+    "service-worker.js": "/musk-sale/service-worker.js",
+    "static/css/2.9ff99f11.chunk.css.map": "/musk-sale/static/css/2.9ff99f11.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/musk-sale/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6fab1cb.js",
+    "static/css/2.9ff99f11.chunk.css",
+    "static/js/2.bc88ee95.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.1545f0d1.chunk.js"
+  ]
+}
